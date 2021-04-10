@@ -1,1 +1,11 @@
-[{"id":"35a19311-9d22-4d01-be31-4d97336ca8e2","title":"RSVP NOW!","description":"sdada","URL":"asdas"}]
+[{
+	"id": "35a19311-9d22-4d01-be31-4d97336ca8e2",
+	"title": "React Memory Game!",
+	"description": "Win by matching all the cards in under 24 flips.",
+	"URL": "https://frozen-ravine-78694.herokuapp.com/"
+}, {
+	"id": "14a19311-2d22-4t01-ce31-5d97336ca8e4",
+	"title": "Cedarberg Travel",
+	"description": "Custom WordPress build. Tailormade Luxury African Safaris",
+	"URL": "https://www.cedarberg-travel.com/"
+}]
